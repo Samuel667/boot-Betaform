@@ -1,0 +1,18 @@
+#enter{
+  margin-top: 15px; 
+}
+#img{
+  padding-left: 4%;
+  margin-left: 3px;
+}
+#eg{
+  background-color: rgb(149, 175, 206);
+  height:min-content;
+  text-align: center;
+  box-sizing: border-box;
+  margin-right: 50px;
+}
+.text-light{
+ margin: 40px;
+ 
+}
